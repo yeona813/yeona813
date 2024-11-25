@@ -37,8 +37,8 @@
 
 ### 🏆 Awards
 ---
-- Likelion Sinchon Hackathon 대상 : 2024.08.
-- KUSITMS 왓에버데이 최우수상 : 2024.11
+- Likelion Sinchon Hackathon 대상 : 2024.08.24
+- KUSITMS 왓에버데이 최우수상 : 2024.11.02
 
 ### 🔥Github Stats
 ---
