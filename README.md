@@ -4,7 +4,8 @@
 --- 
 - Undergraduate student of [Mathematics](https://math.sogang.ac.kr/math/index_new.html) and [Computer Engineering](https://cs.sogang.ac.kr/cs/index_new.html) in [Sogang University](https://www.sogang.ac.kr/ko/home)(2021.03 ~ )
 - Member of [Likelion Sogang Univ](https://www.likelionsg.site/) 12th Frontend(2024.03 ~ 2024.12)
-- Member of [KUSITMS](https://www.kusitms.com/) 30th Frontend(2024.08 ~ 2025.06)
+- Member of [KUSITMS](https://www.kusitms.com/) 30th Frontend(2024.08 ~ 2024.12)
+- Member of [KUSITMS](https://www.kusitms.com/) 31th Frontend(2025.01 ~ 2025.06)
 
 ### 💪 Skills
 ---
